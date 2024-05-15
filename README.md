@@ -13,6 +13,29 @@ The main components of the code include:
 4.	Implementing a GUI using tkinter for user interaction
 5.	Preprocessing images, predicting diseases, and displaying results in the GUI
 
+# About Dataset
+Some types of pathogens — notably bacteria and fungi — are typically present on the skin, but if they become too numerous, the immune system can no longer manage them.In this case, an infection can result.The cause of a skin infection depends on the pathogen involved.
+
+https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset
+
+In this dataset image collected from internet.In this dataset there are total 8 class ,They are
+
+1.	Bacterial Infections- cellulitis
+
+2.	Bacterial Infections- impetigo
+
+3.	Fungal Infections - athlete -foot
+
+4.	Fungal Infections - nail-fungus
+
+5.	Fungal Infections - ringworm
+
+6.	Parasitic Infections - cutaneous-larva-migrans
+
+7.	Viral skin infections - chickenpox
+
+8.	Viral skin infections - shingles
+
 # Usage
 To use this code, follow these steps:
 1.	Clone the repository to your local machine:
