@@ -56,5 +56,3 @@ To use this code, follow these steps:
 
 # Contributors
 Shrikant Bhaginath Bodkhe
-
-Pooja Ramakant Dusane
