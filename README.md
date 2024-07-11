@@ -40,7 +40,7 @@ In this dataset image collected from internet.In this dataset there are total 8 
 To use this code, follow these steps:
 1.	Clone the repository to your local machine:
 
-  	    git clone https://github.com/shreely/skin-disease-prediction-gui.git
+  	    https://github.com/Shrikant-Bodkhe/skin-disease-prediction-gui.git
 
 3.	Install the required dependencies:
 
